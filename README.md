@@ -14,3 +14,6 @@ train_audio_path = '../dataset/'
 
 # Modify the shape
 use the change_shape.py
+
+# Reference
+https://github.com/huckiyang/QuantumSpeech-QCNN
