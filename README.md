@@ -4,7 +4,7 @@ This file is uesd for translate wav file to melspectrgram which is used in input
 wget http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 
 tar -xf speech_commands_v0.01.tar.gz
-
+//also support speech_commandV2
 # PATH
 SAVE_PATH = "data_quantum/" 
 
